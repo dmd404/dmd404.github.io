@@ -1,6 +1,6 @@
 # Site Settings
-name: lgtromm
-title: lgtromm's blog
+name: dmd404
+title: dmd404's blog
 description: blog
 tags:
   - blog
@@ -30,7 +30,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: lgtromm
+github_username: dmd404
 # facebook_username:
 # twitter_username:
 # instagram_username:
