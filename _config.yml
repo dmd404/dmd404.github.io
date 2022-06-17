@@ -17,9 +17,9 @@ menu:
   - title: About
     url: /about
   - title:
-    url: /
+    url: 
   - title:
-    url: /
+    url: 
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: dmd404-github
