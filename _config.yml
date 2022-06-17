@@ -16,10 +16,10 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title:
+    url: /
+  - title:
+    url: /
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: dmd404-github
